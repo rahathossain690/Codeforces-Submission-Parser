@@ -1,5 +1,4 @@
-import csv
-from tabulate import tabulate 
+import csv 
 
 def CSVReader(filename):
 	with open(filename) as csv_file:

@@ -17,7 +17,7 @@ def parse():
 	handles = []
 	
 	# takes contestIds from file : contestId.txt
-	with open("contestId.txt") as contestFile:
+	with open("contestIds.txt") as contestFile:
 		contestIds = contestFile.read().split()
 
 	# takes handles from file : handles.txt
