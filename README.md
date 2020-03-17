@@ -8,7 +8,7 @@ Parses submission for given contestIds and Handles of Codeforces and stores them
 python Parse.py
 ```
 The Codeforces.csv will have the CSV formated data.
-3. To read data primarily use this command.
+4. To read data primarily use this command.
 ```
 python CSVReader.py
 ```
